@@ -8,10 +8,10 @@ export default function Nav() {
         <img src='/logo.png' alt='MailChamp' />
       </div>
       <div className='flex space-x-4'>
-        <button className='bg-[#FFE01B] border border-black border-2 px-4 py-2 rounded-full'>
+        <button className='bg-[#FFE01B] border-black border-2 px-4 py-2 rounded-full'>
           Start Free Trial
         </button>
-        <button className='bg-[#FFE01B] border border-black border-2 px-4 py-2 rounded-full'>
+        <button className='bg-[#FFE01B] border-black border-2 px-4 py-2 rounded-full'>
           Login
         </button>
         <button>
